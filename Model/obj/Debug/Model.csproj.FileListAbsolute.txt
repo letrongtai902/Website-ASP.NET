@@ -1,0 +1,48 @@
+D:\ASP DOT NET MVC\WebBackend\Model\bin\Debug\Model.dll.config
+D:\ASP DOT NET MVC\WebBackend\Model\bin\Debug\Model.dll
+D:\ASP DOT NET MVC\WebBackend\Model\bin\Debug\Model.pdb
+D:\ASP DOT NET MVC\WebBackend\Model\bin\Debug\EntityFramework.dll
+D:\ASP DOT NET MVC\WebBackend\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP DOT NET MVC\WebBackend\Model\bin\Debug\EntityFramework.xml
+D:\ASP DOT NET MVC\WebBackend\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP DOT NET MVC\WebBackend\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\ASP DOT NET MVC\WebBackend\Model\obj\Debug\Model.csproj.CopyComplete
+D:\ASP DOT NET MVC\WebBackend\Model\obj\Debug\Model.dll
+D:\ASP DOT NET MVC\WebBackend\Model\obj\Debug\Model.pdb
+D:\ASP DOT NET MVC\WebBackend\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\ASP DOT NET MVC\WebBackend\Model\bin\Debug\PagedList.dll
+D:\ASP DOT NET MVC\WebBackend\Model\bin\Debug\PagedList.Mvc.dll
+D:\ASP DOT NET MVC\WebBackend\Model\bin\Debug\PagedList.xml
+D:\ASP DOT NET MVC\WebBackend\Model\bin\Debug\PagedList.Mvc.xml
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\bin\Debug\Model.dll.config
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\bin\Debug\Model.dll
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\bin\Debug\Model.pdb
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\bin\Debug\EntityFramework.dll
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\bin\Debug\PagedList.dll
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\bin\Debug\PagedList.Mvc.dll
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\bin\Debug\EntityFramework.xml
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\bin\Debug\PagedList.xml
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\bin\Debug\PagedList.Mvc.xml
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\obj\Debug\Model.csproj.CopyComplete
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\obj\Debug\Model.dll
+D:\ASP DOT NET MVC\WebBackend\BackendDotNet\Model\obj\Debug\Model.pdb
+D:\Lập Trình C#\BackendDotNet-master\Model\bin\Debug\Model.dll.config
+D:\Lập Trình C#\BackendDotNet-master\Model\bin\Debug\Model.dll
+D:\Lập Trình C#\BackendDotNet-master\Model\bin\Debug\Model.pdb
+D:\Lập Trình C#\BackendDotNet-master\Model\bin\Debug\EntityFramework.dll
+D:\Lập Trình C#\BackendDotNet-master\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lập Trình C#\BackendDotNet-master\Model\bin\Debug\PagedList.dll
+D:\Lập Trình C#\BackendDotNet-master\Model\bin\Debug\PagedList.Mvc.dll
+D:\Lập Trình C#\BackendDotNet-master\Model\bin\Debug\EntityFramework.xml
+D:\Lập Trình C#\BackendDotNet-master\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lập Trình C#\BackendDotNet-master\Model\bin\Debug\PagedList.xml
+D:\Lập Trình C#\BackendDotNet-master\Model\bin\Debug\PagedList.Mvc.xml
+D:\Lập Trình C#\BackendDotNet-master\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Lập Trình C#\BackendDotNet-master\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Lập Trình C#\BackendDotNet-master\Model\obj\Debug\Model.csproj.CopyComplete
+D:\Lập Trình C#\BackendDotNet-master\Model\obj\Debug\Model.dll
+D:\Lập Trình C#\BackendDotNet-master\Model\obj\Debug\Model.pdb
