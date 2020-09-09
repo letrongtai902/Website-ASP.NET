@@ -28,7 +28,7 @@ namespace Model.EF
 
         public long? CategoryID { get; set; }
 
-        [Column(TypeName = "ntext")]
+        [StringLength(4000)]
         public string Detail { get; set; }
 
         public int? Warranty { get; set; }

@@ -46,3 +46,19 @@ D:\Lập Trình C#\BackendDotNet-master\Model\obj\Debug\Model.csproj.CoreCompile
 D:\Lập Trình C#\BackendDotNet-master\Model\obj\Debug\Model.csproj.CopyComplete
 D:\Lập Trình C#\BackendDotNet-master\Model\obj\Debug\Model.dll
 D:\Lập Trình C#\BackendDotNet-master\Model\obj\Debug\Model.pdb
+D:\Website-ASP.NET-master\Model\bin\Debug\Model.dll.config
+D:\Website-ASP.NET-master\Model\bin\Debug\Model.dll
+D:\Website-ASP.NET-master\Model\bin\Debug\Model.pdb
+D:\Website-ASP.NET-master\Model\bin\Debug\EntityFramework.dll
+D:\Website-ASP.NET-master\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Website-ASP.NET-master\Model\bin\Debug\PagedList.dll
+D:\Website-ASP.NET-master\Model\bin\Debug\PagedList.Mvc.dll
+D:\Website-ASP.NET-master\Model\bin\Debug\EntityFramework.xml
+D:\Website-ASP.NET-master\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Website-ASP.NET-master\Model\bin\Debug\PagedList.xml
+D:\Website-ASP.NET-master\Model\bin\Debug\PagedList.Mvc.xml
+D:\Website-ASP.NET-master\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Website-ASP.NET-master\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Website-ASP.NET-master\Model\obj\Debug\Model.csproj.CopyComplete
+D:\Website-ASP.NET-master\Model\obj\Debug\Model.dll
+D:\Website-ASP.NET-master\Model\obj\Debug\Model.pdb
