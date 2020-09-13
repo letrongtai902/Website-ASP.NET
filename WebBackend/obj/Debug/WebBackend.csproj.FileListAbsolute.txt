@@ -1,226 +1,37 @@
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\WebBackend.dll.config
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\WebBackend.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\WebBackend.pdb
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\csc.exe
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\csc.exe.config
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\csc.rsp
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\csi.exe
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\csi.rsp
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\System.AppContext.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\System.Collections.Immutable.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\System.IO.FileSystem.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\System.Reflection.Metadata.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\vbc.exe
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\vbc.exe.config
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\vbc.rsp
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\VBCSCompiler.exe
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\roslyn\VBCSCompiler.exe.config
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\Antlr3.Runtime.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\Microsoft.Web.Infrastructure.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\Model.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\Newtonsoft.Json.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.Helpers.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.Mvc.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.Optimization.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.Razor.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.WebPages.Deployment.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.WebPages.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.WebPages.Razor.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\WebGrease.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\EntityFramework.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\Model.pdb
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\Model.dll.config
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.Helpers.xml
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.Mvc.xml
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.Optimization.xml
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.Razor.xml
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.WebPages.xml
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.WebPages.Deployment.xml
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\System.Web.WebPages.Razor.xml
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\Newtonsoft.Json.xml
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\Antlr3.Runtime.pdb
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\EntityFramework.xml
-D:\ASP DOT NET MVC\WebBackend\WebBackend\obj\Debug\WebBackend.csprojAssemblyReference.cache
-D:\ASP DOT NET MVC\WebBackend\WebBackend\obj\Debug\WebBackend.csproj.CoreCompileInputs.cache
-D:\ASP DOT NET MVC\WebBackend\WebBackend\obj\Debug\WebBackend.csproj.CopyComplete
-D:\ASP DOT NET MVC\WebBackend\WebBackend\obj\Debug\WebBackend.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\obj\Debug\WebBackend.pdb
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\EntityFramework.SqlServer.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\EntityFramework.SqlServer.xml
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\PagedList.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\PagedList.Mvc.dll
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\PagedList.xml
-D:\ASP DOT NET MVC\WebBackend\WebBackend\bin\PagedList.Mvc.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\WebBackend.dll.config
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\WebBackend.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\WebBackend.pdb
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\csc.exe
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\csc.exe.config
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\csc.rsp
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\csi.exe
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\csi.rsp
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\System.AppContext.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\System.Collections.Immutable.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\System.IO.FileSystem.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\System.Reflection.Metadata.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\vbc.exe
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\vbc.exe.config
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\vbc.rsp
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\VBCSCompiler.exe
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\roslyn\VBCSCompiler.exe.config
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\Model.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\EntityFramework.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\EntityFramework.SqlServer.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\Model.pdb
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\Model.dll.config
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\PagedList.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\PagedList.Mvc.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\System.Web.Helpers.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\System.Web.Mvc.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\System.Web.Optimization.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\System.Web.Razor.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\System.Web.WebPages.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\System.Web.WebPages.Deployment.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\System.Web.WebPages.Razor.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\Newtonsoft.Json.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\Antlr3.Runtime.pdb
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\EntityFramework.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\bin\EntityFramework.SqlServer.xml
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\obj\Debug\WebBackend.csprojAssemblyReference.cache
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\obj\Debug\WebBackend.csproj.CoreCompileInputs.cache
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\obj\Debug\WebBackend.csproj.CopyComplete
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\obj\Debug\WebBackend.dll
-D:\ASP DOT NET MVC\WebBackend\BackendDotNet\WebBackend\obj\Debug\WebBackend.pdb
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\WebBackend.dll.config
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\WebBackend.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\WebBackend.pdb
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\csc.exe
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\csc.exe.config
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\csc.rsp
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\csi.exe
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\csi.rsp
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\System.AppContext.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\System.Collections.Immutable.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\System.IO.FileSystem.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\System.Reflection.Metadata.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\vbc.exe
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\vbc.exe.config
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\vbc.rsp
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\VBCSCompiler.exe
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\roslyn\VBCSCompiler.exe.config
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\Model.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\EntityFramework.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\EntityFramework.SqlServer.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\Model.pdb
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\Model.dll.config
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\PagedList.xml
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\PagedList.Mvc.xml
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\System.Web.Helpers.xml
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\System.Web.Mvc.xml
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\System.Web.Optimization.xml
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\System.Web.Razor.xml
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\System.Web.WebPages.xml
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\System.Web.WebPages.Deployment.xml
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\System.Web.WebPages.Razor.xml
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\Newtonsoft.Json.xml
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\Antlr3.Runtime.pdb
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\EntityFramework.xml
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\bin\EntityFramework.SqlServer.xml
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\obj\Debug\WebBackend.csprojAssemblyReference.cache
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\obj\Debug\WebBackend.csproj.CoreCompileInputs.cache
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\obj\Debug\WebBackend.csproj.CopyComplete
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\obj\Debug\WebBackend.dll
-D:\Lập Trình C#\BackendDotNet-master\WebBackend\obj\Debug\WebBackend.pdb
-D:\Website-ASP.NET-master\WebBackend\bin\WebBackend.dll.config
-D:\Website-ASP.NET-master\WebBackend\bin\WebBackend.dll
-D:\Website-ASP.NET-master\WebBackend\bin\WebBackend.pdb
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\csc.exe
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\csc.exe.config
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\csc.rsp
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\csi.exe
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\csi.rsp
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\System.AppContext.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\System.Collections.Immutable.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\System.IO.FileSystem.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\System.Reflection.Metadata.dll
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\vbc.exe
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\vbc.exe.config
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\vbc.rsp
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\VBCSCompiler.exe
-D:\Website-ASP.NET-master\WebBackend\bin\roslyn\VBCSCompiler.exe.config
-D:\Website-ASP.NET-master\WebBackend\bin\Model.dll
-D:\Website-ASP.NET-master\WebBackend\bin\EntityFramework.dll
-D:\Website-ASP.NET-master\WebBackend\bin\EntityFramework.SqlServer.dll
-D:\Website-ASP.NET-master\WebBackend\bin\Model.pdb
-D:\Website-ASP.NET-master\WebBackend\bin\Model.dll.config
-D:\Website-ASP.NET-master\WebBackend\bin\PagedList.xml
-D:\Website-ASP.NET-master\WebBackend\bin\PagedList.Mvc.xml
-D:\Website-ASP.NET-master\WebBackend\bin\System.Web.Helpers.xml
-D:\Website-ASP.NET-master\WebBackend\bin\System.Web.Mvc.xml
-D:\Website-ASP.NET-master\WebBackend\bin\System.Web.Optimization.xml
-D:\Website-ASP.NET-master\WebBackend\bin\System.Web.Razor.xml
-D:\Website-ASP.NET-master\WebBackend\bin\System.Web.WebPages.xml
-D:\Website-ASP.NET-master\WebBackend\bin\System.Web.WebPages.Deployment.xml
-D:\Website-ASP.NET-master\WebBackend\bin\System.Web.WebPages.Razor.xml
-D:\Website-ASP.NET-master\WebBackend\bin\Newtonsoft.Json.xml
-D:\Website-ASP.NET-master\WebBackend\bin\Antlr3.Runtime.pdb
-D:\Website-ASP.NET-master\WebBackend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Website-ASP.NET-master\WebBackend\bin\EntityFramework.xml
-D:\Website-ASP.NET-master\WebBackend\bin\EntityFramework.SqlServer.xml
-D:\Website-ASP.NET-master\WebBackend\obj\Debug\WebBackend.csprojAssemblyReference.cache
-D:\Website-ASP.NET-master\WebBackend\obj\Debug\WebBackend.csproj.CoreCompileInputs.cache
-D:\Website-ASP.NET-master\WebBackend\obj\Debug\WebBackend.csproj.CopyComplete
-D:\Website-ASP.NET-master\WebBackend\obj\Debug\WebBackend.dll
-D:\Website-ASP.NET-master\WebBackend\obj\Debug\WebBackend.pdb
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\obj\Debug\WebBackend.csprojAssemblyReference.cache
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\obj\Debug\WebBackend.csproj.CoreCompileInputs.cache
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\WebBackend.dll.config
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\WebBackend.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\WebBackend.pdb
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\csc.exe
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\csc.exe.config
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\csc.rsp
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\csi.exe
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\csi.rsp
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\System.AppContext.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\vbc.exe
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\vbc.exe.config
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\vbc.rsp
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\VBCSCompiler.exe
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\Model.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\Model.pdb
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\bin\Model.dll.config
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\obj\Debug\WebBackend.csproj.CopyComplete
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\obj\Debug\WebBackend.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\WebBackend\obj\Debug\WebBackend.pdb

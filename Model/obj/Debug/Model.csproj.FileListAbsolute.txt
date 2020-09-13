@@ -62,3 +62,19 @@ D:\Website-ASP.NET-master\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
 D:\Website-ASP.NET-master\Model\obj\Debug\Model.csproj.CopyComplete
 D:\Website-ASP.NET-master\Model\obj\Debug\Model.dll
 D:\Website-ASP.NET-master\Model\obj\Debug\Model.pdb
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\bin\Debug\Model.dll.config
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\bin\Debug\Model.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\bin\Debug\Model.pdb
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\bin\Debug\EntityFramework.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\bin\Debug\PagedList.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\bin\Debug\PagedList.Mvc.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\bin\Debug\EntityFramework.xml
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\bin\Debug\PagedList.xml
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\bin\Debug\PagedList.Mvc.xml
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\obj\Debug\Model.csproj.CopyComplete
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\obj\Debug\Model.dll
+D:\ASP DOT NET MVC\WebBackend\Website-ASP.NET\Model\obj\Debug\Model.pdb
